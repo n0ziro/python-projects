@@ -28,3 +28,14 @@ python kostenberechnung.py
 - if __name__ == "__main__"
 
 *Erstellt: Mai 2026 | Lernprojekt Python*
+
+## ⬇️ Download (Windows)
+
+Du kannst das Programm direkt ausführen ohne Python zu installieren:
+
+1. Lade die Datei `kostenberechnung.exe` herunter
+2. Doppelklick → Programm startet sofort
+3. Keine Installation nötig
+
+> **Hinweis:** Windows SmartScreen kann eine Warnung anzeigen.
+> Klicke auf "Weitere Informationen" → "Trotzdem ausführen".
