@@ -33,7 +33,7 @@ python kostenberechnung.py
 
 Du kannst das Programm direkt ausführen ohne Python zu installieren:
 
-1. Lade die Datei `kostenberechnung.exe` herunter
+1. Lade die Datei [kostenberechnung.exe](kostenberechnung.exe) herunter
 2. Doppelklick → Programm startet sofort
 3. Keine Installation nötig
 
