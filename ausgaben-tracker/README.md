@@ -39,3 +39,8 @@ Du kannst das Programm direkt ausführen ohne Python zu installieren:
 
 > **Hinweis:** Windows SmartScreen kann eine Warnung anzeigen.
 > Klicke auf "Weitere Informationen" → "Trotzdem ausführen".
+>
+> ## Updates – Mai 2026
+- Löschfunktion überarbeitet: jetzt per Nummer auswählen
+- enumerate() für nummerierte Ausgabeliste
+- Validierung auf allen Ebenen verbessert
